@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <XAPFiles>
+    <File>resources.pri</File>
+    <File>WPTweaker.dll</File>
+    <File>Assets\AppBar\add.png</File>
+    <File>Assets\AppBar\appbar.currency.dollar.png</File>
+    <File>Assets\AppBar\download.png</File>
+    <File>Assets\AppBar\edit.png</File>
+    <File>Assets\AppBar\minus.png</File>
+    <File>Assets\AppBar\questionmark.png</File>
+    <File>Assets\AppBar\refresh.png</File>
+    <File>Assets\AppBar\save.png</File>
+    <File>Assets\Tiles\FlipCycleTileLarge.png</File>
+    <File>Assets\Tiles\FlipCycleTileSmall.png</File>
+    <File>Toolkit.Content\ApplicationBar.Add.png</File>
+    <File>Toolkit.Content\ApplicationBar.Cancel.png</File>
+    <File>Toolkit.Content\ApplicationBar.Check.png</File>
+    <File>Toolkit.Content\ApplicationBar.Delete.png</File>
+    <File>Toolkit.Content\ApplicationBar.Select.png</File>
+    <File>Tweaks.xml</File>
+    <File>AppManifest.xaml</File>
+    <File>Assets\ApplicationIcon.png</File>
+    <File>Assets\Tiles\FlipCycleTileMedium.png</File>
+    <File>DevProgram.winmd</File>
+    <File>Microsoft.Phone.Controls.Toolkit.dll</File>
+    <File>OEMSharedFolderAccessLib.winmd</File>
+    <File>RPCComponent.winmd</File>
+    <File>OEMSharedFolderAccessLib.dll</File>
+    <File>DevProgram.dll</File>
+    <File>RPCComponent.dll</File>
+    <File>WMAppManifest.xml</File>
+    <File>AppxManifest.xml</File>
+  </XAPFiles>
+  <APPXFiles />
+</Files>

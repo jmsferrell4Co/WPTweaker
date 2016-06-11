@@ -1,0 +1,9 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="WPTweaker" EntryPointType="WPTweaker.App" RuntimeVersion="6.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="WPTweaker" Source="WPTweaker.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="OEMSharedFolderAccessLib" Source="OEMSharedFolderAccessLib.dll" />
+    <AssemblyPart x:Name="DevProgram" Source="DevProgram.dll" />
+    <AssemblyPart x:Name="RPCComponent" Source="RPCComponent.dll" />
+  </Deployment.Parts>
+</Deployment>
